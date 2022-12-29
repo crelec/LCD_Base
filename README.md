@@ -9,3 +9,5 @@ ThisThread::sleep_for(15ms); //wait(0.015);
 wait_us(1640); //wait(0.00164);
 
 La justificación del cambio en la función wait() se encuentra en: https://os.mbed.com/docs/mbed-os/v6.15/apis/wait.html
+* **Circuito Eléctrico**
+![nucleo-LCD_bb](https://user-images.githubusercontent.com/111470363/209947989-b2cc87be-4667-4007-b38a-b688d4a7fffc.jpg)
